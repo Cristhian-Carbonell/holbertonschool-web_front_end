@@ -41,9 +41,9 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 
 ## Sitemap of the project
 
-![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x00-html_advanced/image/sitemap.png?raw=true)
+![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x00-html_advanced/images/sitemap.png?raw=true)
 
 ## Wireframe of ```Techium``` project
 
-![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x00-html_advanced/image/mockup.png?raw=true)
+![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x00-html_advanced/images/mockup.png?raw=true)
 
