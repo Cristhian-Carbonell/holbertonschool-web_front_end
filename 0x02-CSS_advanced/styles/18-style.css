@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav .nav-link:hover {
-    background-color: var(--nav-item-link-hover);
+    color: var(--nav-item-link-hover);
 }
 
 .visually-hidden {
