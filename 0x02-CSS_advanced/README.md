@@ -46,18 +46,18 @@ At the end of this project, you are expected to be able to explain to anyone, **
 
 ## Files you need for the project
 ```favicon.jpg```
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210427T023349Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=083ee84e657873d026bdafc259ea41fc14de58c13a29bc841581b054ad6bec44)
+![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x02-CSS_advanced/image/favicon.jpg?raw=true)
 [download favicon.jpg](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/2ba3a0d7878316de5aaa.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210427T023349Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=7d702ad62dfef616626402075494137744a5f714caa00730822aa9a8c2c1eaf1)
 
 ```logo-black.png```
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210427T023349Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=23b6152d575cb1752d3883ac89626230f37eef84bc9ee070649534674c8c6cd0)
+![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x02-CSS_advanced/image/logo-black.png?raw=true)
 
 [download logo-black.png](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/06f32e89f2a82582234e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210427T023349Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=a435136d717812c4a25f8eba3301226510f97626767ff63b662033917919b799)
 
 ```logo-white.png```
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210427T023349Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=abdc8f2c3935e22caa03537304161e1ccf3d333649246f6d2b538537dcfe642d)
+![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x02-CSS_advanced/image/logo-white.png?raw=true)
 
 [download logo-white.png](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/0fa48a04048a2d050cab.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210427T023349Z&X-Amz-Expires=345600&X-Amz-SignedHeaders=host&X-Amz-Signature=525c9f42633cbe52ccd372a6e75a62a57b33bbea4aa970130902693ed234b26e)
 
@@ -426,6 +426,6 @@ Use the following starter HTML file for your project.
 You can save it in a ```index.html``` file and replace the ```<link rel='stylesheet' href='#'>``` by the right CSS file.
 
 ## End goal of the project
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2019/10/b9a220ba79af9ede6fc5.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210427%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210427T023349Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=206d663c76d1f8edd272146004afd54771a8a41ff7ec9e3b9e4fe986442a1a0f)
+![](https://github.com/Cristhian-Carbonell/holbertonschool-web_front_end/blob/main/0x02-CSS_advanced/image/index.png?raw=true)
 
 Important note: details are important! lowercase vs uppercase / wrong letter… be careful!
