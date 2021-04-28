@@ -3,7 +3,7 @@
     --transition-cubic-bezier: cubic-bezier(0.17, 0.67, 0, 1.01);
 }
 
-.card-work:hover .card-image {
+.card-image .card-work:hover {
     transform: scale(1.2);
 }
 
