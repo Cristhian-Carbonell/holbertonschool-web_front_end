@@ -37,6 +37,7 @@
     --nav-item-margin: 0 0 3rem 0;
     --nav-item-link-hover: var(--color-primary);
     --section-tagline-margin: 0;
+    --data-section-theme: var(var(--color-black));
 }
 
 * , *:before, *:after {
@@ -198,8 +199,4 @@ ul.row {
 [class^="col-"] {
     float: left;
     padding: 0.5rem;
-}
-
-.data-section-theme {
-    background: var(--color-black);
 }
