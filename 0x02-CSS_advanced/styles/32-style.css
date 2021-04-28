@@ -15,7 +15,7 @@
     transition: var(--transition-duration), var(--transition-cubic-bezier);
 }
 
-.button:hover {
+.button {
     transition: var(--transition-duration), var(--transition-cubic-bezier);
 }
 
