@@ -1,0 +1,21 @@
+/* Extended */
+%color-1 {
+	color: #00FF00;
+}
+
+%color-2 {
+	color: #FF0000;
+}
+
+.info, .success, .warning {
+	font-size: 12px;
+}
+
+.success {
+	@extend %color-1;
+}
+
+.warning {
+	@extend %color-2;
+}
+
