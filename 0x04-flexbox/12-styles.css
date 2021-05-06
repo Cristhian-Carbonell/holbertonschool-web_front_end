@@ -421,7 +421,7 @@
 
   .post-aside {
     order: -1;
-    width: 20%;
+    min-width: 20%;
   }
   
   /* Section Latest news 
