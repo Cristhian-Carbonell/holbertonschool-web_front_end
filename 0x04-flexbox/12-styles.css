@@ -420,7 +420,7 @@
   }
 
   .post-aside {
-    order: 1;
+    order: -1;
     width: 20%;
   }
   
