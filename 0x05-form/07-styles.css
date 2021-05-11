@@ -840,7 +840,7 @@ input:not(:placeholder-shown) ~ .form-field-icon::after {
       height: 1.5rem;
   }
 
-  .search-button, input[type="search"] {
+  .search-button input[type="search"] {
       display: inline-block;
       color: var(--color-white);
       padding-right: 2rem;
@@ -856,7 +856,7 @@ input:not(:placeholder-shown) ~ .form-field-icon::after {
       transition: 0 .4s cubic-bezier(0, 0.795, 0, 1);
   }
 
-  .search-button:focus, input[type="search"] {
+  .search-button, input[type="search"]:focus {
       position: relative;
       width: 15rem;
       z-index: 1;
