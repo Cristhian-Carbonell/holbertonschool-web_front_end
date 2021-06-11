@@ -1,0 +1,31 @@
+# 0x0A. Bootstrap :rocket:
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAATYAAACjCAMAAAA3vsLfAAAArlBMVEVdPH////9dO4BVL3tWMnpbOH5WLny4r8KpnLillrXk4Oi2qsNyW4vy7/VPKHRcPH6voryZiap6ZJH7+fxVLH1NJXN/bJT49vlaNn7Sy9hYNnteOoJPJXdRLHVJIW96ZZHe2eNuVoiSgaTHvtBMIHSKeJ7q5u2VhKZeQH2/tclkSYFOIXc3AGNDEG1HGG+Fc5lqUIZjR4HEu82/sstwW4hBDWpDF2lJI2uDbZusnrt4adrdAAAIb0lEQVR4nO2dC3eiOBSASQgoKkSllPAUBR/YqdXZbaf7///YJqhUO4HO6dBZF+43PVNraM74zQ2EPC6KAgAAAAAAAAAAAAAAAAAAAAAAALQHrDHyGzAN/9ef4A+DOcyJppP+5zEmo8higUL/6w/zp8A8Ski8TMwkzYefppcO3GRhqbyybkQd/5TOwkyeIkfX1UuIWsu7Yj2Mnjxz6WAl6IY3Fnmrech+88Niyhv6aOX98LsRboyseo7WUF1xbvp+M3XdNDSwTCNrrrqsb0aN1XbDxF4vCxqsLxt6MW779ZSqi0GGGzwbYbobrFvfTHHk7hs6r52gbO9GTYbvLaIaqdVsjVRxPIM0W+fN4SQz1nSdbDoI290HwdR0mq6S/1+YLe+6+Uuv4TYqsLynxkP4piDjnt58rWqv3+6Tm9obq823J3XcUxuv9JbgcfEF2ojxFTF8Q4C2TwHaPkWlNlI52FaMftffc3ZVG1b74yqM9XRjqbU3ZF3VFjguqmPVm4c1PbOuasOOWauNk4ycypYK2mrovVRdTDqrzfoFbciLK7yBthpslIbyWkFbPRV37KANDa5Z2ZfaBo50hAi0IeuaMNqPL8yNfND2xoU2el1MsaaTQaltLB3pAG2IasUiEVysFRGHcnFRGW9eKGuloO19tB1Lh+fSlbQPAtqk2tjsXGpK51pAm1SbtimjLQNtb3ygLaClNge0vVGvjeIy2rxQdj8P2uTntlHZAZHOUIE2qTZ9fC6Vrx8BbYgGuOTYR6PYOg9iJvJFC6BNRBs9/hFfVAmon3nnwrl8bBy0Icq0Mz5HU+NtciyxkVExiQza0PSaV6MMNTR2KmawQFs19sKRXC4KQFsVbs+vXuYB2iq1eZNIrVpqCtrqWmk/rphkBm21DKgmXUoP2uoxfU12MQVt7zsg0+li+DYmjpIfsnADbch/6+4KmE/UbLYqva1l9/KgTT4CEifn4pXsrhS0SbUpQVSuSHqVzDCDNpm2AFO1fy7PJYJAm0ybEigXswnxz+WgTaqNUx5gS7aDgLYqbW8Xhc3PB4C2Km1Oqe3w8x0WaKvUVnbdtqDtzIfasF92eA/QSM98qI0sSm1wSSj5UFtWttGVJKsDaLua8DtN+ynBS14Gm2wvH2jj0XYFl6hZUYrKFW5TuLkqudAWOderUCN/OrzYIpPI1s6ANmS670BXzGSLd0HbB4ylOxNAWz25fIIZtNXSzzAFbW98rI1fSQdzVZFnR+qsto93+HlPVbOkHdZm1W7DNdPJJqzZY99ZbWxSxfJ+7sd3pHa/fFe1cW8VKQYIO+bXrc0x0Fltvwdo+xSk33Ztw+FX5DjqtTzHEVunVvPa9HTR7kRk2n5VnZfi02Srfbu14djcNh5teGs6Lc/pKRK4NZx1nurD3hecMG8KvHGtZiMD48iVzJ22jLs8b7ZF4TDPrdaneea3nzPS5IckMzf6KFNZC9DmqLjuNXE2ChRKtmjOpKNwLYPco6mFGzmHU3w3RfeNBu/too7scUwa8IaZM7ZHHbHG7xWoZ64ji2i/BbGitekx1hVrYjT3b8/1jNf56NNMX/u8ilHLk4m/A/sWXeTJ4PMkSb7Qwo4960r0GJh+F1qOw7/EX6dv77Cqii3L0ouH8HTLm1Js7D5/6Otv11yWnSauzktqeCe3a9YAAAAAAAAAAAAAAADaymmsCB+zAdYdBlyC/Yfs4eEhC/VAvuobKwFT2dUzz321ifma/zVqD9mCVbpXFSqdnieL9ZpdlGjT9eTwp/59twmNeuX673lAFcxU9fQMK0yKl1iJB8iOxSSBKCOaovNfmTOs+ITxw7lGUrwtfoNoLOpEKN5xB/fb/TxF6LuOtWiRp8OR2JDMokmejkcWppsEuZs9DZzlX2lu7NlhiNBsfyBLYxKv/9Kj0T/p9/6BYG1r9LfLPDUoafIZ2DeJ0DZSmX5AKLXY/rgp+buD2d/HnQl5tj/G4uici+HlWDB89JDJ33pOj28/EXaPUPH77kxtZpL/dhHaltv9yONBx0TmoiQ3uaw7aiPk5fzn/sHmL117bnCdk3GSPq9sZJv2+FGkRHUHuwXyelyda3FtNjJzrtL2W74qsNB2xNgRbmb4cvfCvRHeEPuPVuwiO/qWIPNbGHI1Px53Ox8/9hHa7tSQa8t3MfZHj7tvvJYpEdEW3z3z13215V0Wrs1emaZoXJMHLkLDWOdapjxmYhyIx3DMHvi5zaFkwg8ZpBPfV3tFemfLExlnMLZG41yE2yK6F74CrInE9h1opPOXOPa5uBcuQsVU5YJexdUTKyJx1v2OawsVxTk+ccik6vCszVaxEg1PG/6WKtc24VdWi2v7gudg3xTFJUEn5JHHy4G/frpjO27v8J1HnMWeedBtQt5IM4b9nTNa86OMcMy1Eb/QFohHJ6TEWfJoE9q8R2YtRbqG9jdSZKzXE3GKi/hF051Mc35dyEb85WLKLXmOaI3L+8M8WW7UJ94OQ3EKnL/GXBsJAv47vWcRp0vRSFE+nbjHbl2r0d8yehiRZRxfuVstOj0SwaSUFRlm+qeOhkuPudsGz1wVUbA14AeJ5rvQ7881Db9gi8htQYykwBvO+fnImnqubQ4p7/M7Tx7vTgx9RrFlmMj9Z56vbNvMNwyTWYJszxkmno+pdkhtlDwlyatopH3+w2AR47YveQ5IsVrIsSImnozAwuwl1kUy3YBZ8S7TsRgZUeMsJoEaZlko7rwwc14yS1HDIqgCK34J+WtfdHeNXbZziNL2bpsY4DgFhlhxxCXhgIvCYsSDf8P0OKgkEvYc7/P5mwo+P2ZNuVhkRJVC22kfR1Vue+A91BeNtAv38Y3CY5BE0gdIAjVQWqwSBG8AAAAAAAAAAAAAAAAAAADAr/IvcaGtpvT/tLMAAAAASUVORK5CYII=)
+
+Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains **CSS** and **JavaScript** design templates for typography, forms, buttons, navigation, and other interface components.
+
+For this project, you will use Bootstrap 4.4 and only the CSS styling part.
+
+## Resources :memo:
+#### Read or watch:
+- [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+
+## Learning Objectives
+At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+### General :pushpin:
+- Usage of Containers
+- Usage of the Grid system
+- Usage of Components
+- Usage of Utilities
+
+## Requirements
+### General
+- A ```README.md``` file, at the root of the folder of the project, is mandatory
+- Use Bootstrap version 4.4.1
+
+## **Use the CDN version**
+Add this ```<link>``` in the ```<head>``` part of your HTML
+```html
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+```
