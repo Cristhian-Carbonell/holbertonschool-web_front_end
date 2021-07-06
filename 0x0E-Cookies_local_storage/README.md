@@ -1,7 +1,7 @@
-# 0x0E. Cookies & local storage
+# 0x0E. Cookies & local storage :boom:
 ![](https://helpezee.files.wordpress.com/2020/09/0b585-1um18fys7e_lb6w0jtsscvq.png)
 
-## Resources
+## Resources :pushpin:
 ### Read or watch:
 
 - [Cookies and Javascript](https://www.w3schools.com/js/js_cookies.asp)
@@ -9,14 +9,14 @@
 - [js-cookie](https://github.com/js-cookie/js-cookie)
 - [Web storage](https://www.w3schools.com/html/html5_webstorage.asp)
 
-## Learning Objectives
+## Learning Objectives :heavy_plus_sign:
 - Understand how to create cookies using Javascript
 - Learn how to set specific settings for the cookie
 - Learn how to read cookies with Javascript
 - How to use js-cookie for easy cookie manipulation
 - How to use the browser web storage
 - The differences between local storage and session storage
-## Requirements
+## Requirements :hammer:
 - Allowed editors: ```vi```, ```vim```, ```emacs```, ```Visual Studio Code```
 - All your files should end with a new line
 - A ```README.md``` file, at the root of the folder of the project, is mandatory
